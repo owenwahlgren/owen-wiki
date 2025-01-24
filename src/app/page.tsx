@@ -249,11 +249,6 @@ export default function WikipediaResumeV3() {
               <li><strong>aim_gloom</strong> - A Counter-Strike 2 1v1 map created in Hammer</li>
             </ul>
 
-            <h2 id="current-work" className="text-xl font-normal border-b border-gray-300 pb-1 mb-3 mt-8">Current Work</h2>
-            <p className="mb-6">
-              Wahlgren is currently working on Community.TF, a custom server and server browser for Team Fortress 2. He is also available for freelance opportunities in the blockchain and gaming industries.
-            </p>
-
             <h2 id="references" className="text-xl font-normal border-b border-gray-300 pb-1 mb-3 mt-8">References</h2>
             <ol className="list-decimal list-inside mb-6">
               <li><a href="https://twitter.com/owenwahlgren" className="text-blue-600 hover:underline">Twitter/X Profile <ExternalLink className="inline" size={14} /></a></li>
