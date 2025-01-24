@@ -27,7 +27,6 @@ jobs:
       - name: Build app
         run: |
           npm run build
-          # Optional: create .nojekyll if your site doesn't need Jekyll
           touch ./out/.nojekyll
 
       - name: Deploy 🚀
