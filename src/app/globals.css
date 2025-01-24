@@ -25,3 +25,8 @@ body {
     text-wrap: balance;
   }
 }
+
+@keyframes twinkle {
+  0% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
