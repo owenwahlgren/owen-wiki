@@ -108,7 +108,6 @@ export default function WikipediaResumeV3() {
           <li>
             <a href="#career" className="text-[#36c] hover:text-[#447ff5]">Career</a>
             <ol className="list-none pl-4 mt-1 space-y-1">
-              <li><a href="#projects" className="text-[#36c] hover:text-[#447ff5]">Notable Projects</a></li>
               <li><a href="#current-work" className="text-[#36c] hover:text-[#447ff5]">Current Work</a></li>
             </ol>
           </li>
@@ -239,15 +238,6 @@ export default function WikipediaResumeV3() {
             <p className="mb-6">
               Wahlgren began his career in blockchain technology, working as a Blockchain Specialist at lutz.com from February to July 2021. He then co-founded de.Social, where he served as CTO from April to September 2021. After working as a Solutions Engineer at Polygon Labs from August 2022 to February 2024, he joined Ava Labs as a Developer Relations Engineer in August 2024, where he focuses on supporting and growing the developer ecosystem.
             </p>
-
-            <h2 id="projects" className="text-xl font-normal border-b border-gray-300 pb-1 mb-3 mt-8">Notable Projects</h2>
-            <ul className="mb-6">
-            <li><strong>Polygon &ldquo;Blueprint: Games Guide&rdquo;</strong> - A comprehensive guide for building Web3 games</li>
-            <li><strong>Sounds of the Blockchain</strong> - An NFT project featuring oscilloscope audio visualization</li>
-              <li><strong>LinkToss</strong> - A Chainlink-powered coin flip gambling application</li>
-              <li><strong>Uniswap V2 &ldquo;Sniper&rdquo;</strong> - A tool for buying new Uniswap V2 listings while detecting honeypots</li>
-              <li><strong>aim_gloom</strong> - A Counter-Strike 2 1v1 map created in Hammer</li>
-            </ul>
 
             <h2 id="references" className="text-xl font-normal border-b border-gray-300 pb-1 mb-3 mt-8">References</h2>
             <ol className="list-decimal list-inside mb-6">
